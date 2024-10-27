@@ -116,4 +116,3 @@ export {
   GetIncomeDetail,
   GetAll,
 };
-// export { GetAllExpense };
